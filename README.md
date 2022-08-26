@@ -6,7 +6,7 @@
 
   ***Timeline***: 02.07.20220 -- 05.07.2022
   
-  ***Tast status***: Finish
+  ***Task status***: Finish
 
 ## Task3
 
@@ -16,5 +16,5 @@
   
   ***Provided Optical FLow network***: **[link](https://github.com/princeton-vl/RAFT.git)**
 
-  ***Tast status***: Finish
+  ***Task status***: Finish
 
