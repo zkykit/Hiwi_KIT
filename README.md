@@ -13,6 +13,8 @@
   ***Task content***: Convert the segmented videos to Optical Flow
 
   ***Timeline***: 11.07.2022 -- 28.07.2022
+  
+  ***Provided Optical FLow network***: **[link](https://github.com/princeton-vl/RAFT.git)**
 
   ***Tast status***: Finish
 
